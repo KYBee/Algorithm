@@ -1,0 +1,5 @@
+﻿  quick.c
+C:\Users\김영빈\Desktop\cau\5차학기\알고리즘\Project1\quick\quick.c(13,18): warning C4013: 'Partition'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\김영빈\Desktop\cau\5차학기\알고리즘\Project1\quick\quick.c(44,13): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
+  LINK : C:\Users\김영빈\Desktop\cau\5차학기\알고리즘\Project1\Debug\quick.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  quick.vcxproj -> C:\Users\김영빈\Desktop\cau\5차학기\알고리즘\Project1\Debug\quick.exe
